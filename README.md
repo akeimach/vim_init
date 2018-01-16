@@ -1,6 +1,6 @@
 # GitHub Streak
 
-Here is the repo where I created the ultimate image:
+Here is the repo where I created the most beautiful image on GitHub:
 
 
 ![Most beautiful thing on GitHub](./git-streak.png)
